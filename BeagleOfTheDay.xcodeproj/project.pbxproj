@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					A6993B0B1EB2830200104876 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 9Q67G7E28V;
 						ProvisioningStyle = Automatic;
 					};
 					A6993B241EB2830200104876 = {
@@ -426,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9Q67G7E28V;
 				INFOPLIST_FILE = BeagleOfTheDay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kateowens.BeagleOfTheDay;
@@ -437,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9Q67G7E28V;
 				INFOPLIST_FILE = BeagleOfTheDay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kateowens.BeagleOfTheDay;
